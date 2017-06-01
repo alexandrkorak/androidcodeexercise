@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidCodeExercise</string>
+    <string name="action_clear_cache">Clear Cache</string>
+</resources>
